@@ -1,0 +1,18 @@
+.block1 {
+    background-color: blueviolet;
+    height: 200px;
+    width: 200px;
+}
+
+
+/* hover kaj kore jokhon mouse er katsot element er upor raki thokon  ++ CHANGE BUJTE PARMU ++ aager element ke re override kore */
+
+.block1:hover {
+    background-color: rgb(226, 95, 43);
+    height: 300px;
+    width: 300px;
+}
+
+p:hover {
+    color: rgb(255, 0, 128);
+}

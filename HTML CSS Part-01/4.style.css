@@ -1,0 +1,6 @@
+p {
+    /* text-decoration:none;  By default eta thake */
+    /*  text-decoration:underline;
+	    text-decoration:overline;  */
+    text-decoration: line-through;
+}

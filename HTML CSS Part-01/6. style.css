@@ -1,0 +1,12 @@
+p {
+    font-family: arial;
+    font-size: 150%;
+    /* font-size: 1em */
+    font-weight: bold;
+    font-style: italic;
+    font-variant: small-caps;
+    /* Capital letter ke boro kore dekhabe... choto ke o boro kore dekha be...boro hater gula besi boro dekha be */
+    /* text-transform:lowercase; */
+    text-transform: uppercase;
+    line-height: 20px;
+}

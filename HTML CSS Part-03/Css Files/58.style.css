@@ -1,0 +1,14 @@
+p {
+    border: 1px solid red;
+}
+
+img {
+    float: left;
+}
+
+p.clear {
+    clear: left;
+    /* ...clear: right o use hoy...
+    clear: both;
+     */
+}

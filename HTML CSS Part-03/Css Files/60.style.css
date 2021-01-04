@@ -1,0 +1,11 @@
+.mydiv {
+    width: 400px;
+    height: 150px;
+    background: -o-radial-gradient(red 10%, green 50%, aqua 40%);
+    background: -moz-radial-gradient(red 10%, green 50%, aqua 40%);
+    background: -webkit-radial-gradient(red 10%, green 50%, aqua 40%);
+    background: radial-gradient(red 10%, green 50%, aqua 40%);
+}
+
+
+/*   to top, to right, to left   */

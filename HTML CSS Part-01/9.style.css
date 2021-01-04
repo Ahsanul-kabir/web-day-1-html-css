@@ -1,0 +1,14 @@
+p {
+    background-image: url("img/Boat.PNG");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+/*
+	background-repeat:no-repeat;
+	background-repeat:repeat-x;
+	background-repeat:repeat-y;
+	background-size:200px 150px
+
+*/

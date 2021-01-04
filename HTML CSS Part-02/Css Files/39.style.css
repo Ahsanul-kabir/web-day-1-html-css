@@ -1,0 +1,31 @@
+/* eta dile div er vitor bahir sob same color pabe
+p {
+    color: crimson;
+}
+*/
+
+
+/*
+
+... eta dile sob element pabe hok se dadar pola or dadar nati
+
+#wrapped p {
+    color: blueviolet;
+}
+
+*/
+
+
+/*
+
+... eta dile sudu dadar pola pabe
+
+#wrapped > p {
+    color: blueviolet;
+}
+
+*/
+
+#wrapped>p {
+    color: blueviolet;
+}

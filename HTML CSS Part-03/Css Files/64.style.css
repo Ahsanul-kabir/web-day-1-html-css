@@ -1,0 +1,25 @@
+.mydiv {
+    height: 150px;
+    width: 150px;
+    background-color: red;
+    position: relative;
+    -webkit-animation-name: nayeem;
+    animation-name: nayeem;
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+    -webkit-animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
+    -webkit-animation-direction: alternate;
+    animation-direction: alternate;
+}
+
+@-webkit-keyframes nayeem {}
+
+@keyframes nayeem {
+    from {
+        left: 0
+    }
+    to {
+        left: 200px;
+    }
+}

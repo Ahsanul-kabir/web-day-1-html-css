@@ -1,0 +1,16 @@
+.mybtn {
+    width: 150px;
+    height: 35px;
+    border-radius: 15px;
+    /* border-radius: 15px, 15px, 15px, 15px; */
+    font-style: 20px;
+    padding: 5px;
+    color: rgb(230, 16, 16);
+    transition: all 1s ease;
+}
+
+.mybtn:hover {
+    color: rgb(20, 20, 20);
+    background: rgb(157, 229, 128);
+    cursor: pointer;
+}

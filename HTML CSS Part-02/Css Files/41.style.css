@@ -1,0 +1,8 @@
+#wrapper span {
+    /* display: none;  == Hide all things*/
+    background-color: red;
+    color: blanchedalmond;
+    display: block;
+    /* inline element ke block level element e convert kora "display: block" er kaj"  span holo block level element */
+    /*  display: inline;  */
+}

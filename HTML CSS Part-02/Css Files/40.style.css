@@ -1,0 +1,7 @@
+#wrapper {
+    border: 1px solid red;
+    width: 600px;
+    height: 200px;
+    /* overflow: hidden; */
+    overflow: scroll;
+}

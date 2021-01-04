@@ -1,0 +1,15 @@
+.mydiv {
+    height: 300px;
+    width: 500px;
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#1e5799+0,7db9e8+52 */
+    background: rgb(30, 87, 153);
+    /* Old browsers */
+    background: -moz-radial-gradient(center, ellipse cover, rgb(30, 87, 153) 0%, rgb(125, 185, 232) 52%);
+    /* FF3.6-15 */
+    background: -webkit-radial-gradient(center, ellipse cover, rgb(30, 87, 153) 0%, rgb(125, 185, 232) 52%);
+    /* Chrome10-25,Safari5.1-6 */
+    background: radial-gradient(ellipse at center, rgb(30, 87, 153) 0%, rgb(125, 185, 232) 52%);
+    /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#1e5799', endColorstr='#7db9e8', GradientType=1);
+    /* IE6-9 fallback on horizontal gradient */
+}

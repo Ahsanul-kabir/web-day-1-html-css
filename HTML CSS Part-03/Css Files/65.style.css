@@ -1,0 +1,57 @@
+.mydiv {
+    height: 150px;
+    width: 150px;
+    background-color: red;
+    position: relative;
+    -webkit-animation-name: nayeem;
+    animation-name: nayeem;
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+    -webkit-animation-delay: 1s;
+    animation-delay: 1s;
+    -webkit-animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
+    /* animation-direction: reverse; */
+}
+
+@-webkit-keyframes nayeem {
+    0% {
+        left: 0;
+        top: 0
+    }
+    25% {
+        left: 200px;
+        top: 0;
+    }
+    75% {
+        left: 0;
+        top: 200px;
+    }
+    100% {
+        left: 0;
+        top: 0;
+    }
+}
+
+@keyframes nayeem {
+    0% {
+        left: 0;
+        top: 0
+    }
+    25% {
+        left: 200px;
+        top: 0;
+    }
+    50% {
+        left: 200px;
+        top: 200px;
+    }
+    75% {
+        left: 0;
+        top: 200px;
+    }
+    100% {
+        left: 0;
+        top: 0;
+    }
+}

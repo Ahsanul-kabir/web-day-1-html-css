@@ -1,0 +1,19 @@
+    .div1 {
+        width: 300px;
+        height: 300px;
+        background-color: aqua;
+        margin-top: 30px;
+        margin-right: 20px;
+        margin-bottom: 20px;
+        margin-left: 30px;
+        padding: 50px;
+        /* that means all side same size pabe */
+    }
+    
+    .div2 {
+        width: 300px;
+        height: 300px;
+        background-color: blueviolet;
+        margin: 10px 20px 30px 20px;
+        padding: 25px 20px 15px 30px;
+    }

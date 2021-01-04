@@ -1,0 +1,6 @@
+ul {
+    /*   list-style-type: disc;  ------>>> By default eta thakbo */
+    /*   list-style-type: none;  ------>>> kono Property ei thakbo na */
+    /* list-style-type: circle; */
+    list-style-type: square;
+}

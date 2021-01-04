@@ -1,0 +1,18 @@
+ul#menu {
+    padding: 0;
+}
+
+ul#menu li {
+    display: inline;
+}
+
+ul#menu li a {
+    color: rgb(245, 238, 238);
+    text-decoration: none;
+    background: #000;
+    padding: 10px 20px;
+}
+
+ul#menu li a:hover {
+    background: yellowgreen;
+}

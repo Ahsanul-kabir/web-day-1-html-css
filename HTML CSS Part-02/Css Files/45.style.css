@@ -1,0 +1,24 @@
+.block1 {
+    background-color: blueviolet;
+    height: 200px;
+    width: 200px;
+    margin: 350px;
+    transition: all 2s;
+}
+
+
+/* "ease"*/
+
+
+/* Transaction e hover must use kora lage....Transation er moddome slow motion er moto kaj korano jai....mouse er karsor element er upor dorle bujte para jai */
+
+.block1:hover {
+    background-color: rgb(226, 95, 43);
+    /* height: 300px;
+       width: 400px; */
+    /* transform: rotate(360deg); */
+    /* transform: skewX(15deg); */
+    /* transform: skewY(10deg); */
+    transform: scale(2, 2);
+    /*(right-left, top-bottom) koto gun boro hbe */
+}

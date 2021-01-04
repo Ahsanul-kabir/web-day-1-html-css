@@ -1,0 +1,7 @@
+iframe {
+    width: 700px;
+    height: 350px;
+    background-color: chartreuse;
+    padding: 3px;
+    border-radius: 5px;
+}
